@@ -1,2 +1,2 @@
 # Computer-Haven-Webpage
-FInal Project for Introduction to Computing
+A transactional website for computer peripherals, creating using HTML, CSS, and Javascript.
